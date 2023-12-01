@@ -1,2 +1,3 @@
-# dummy_app
-This is a just a dummy santa's app 
+# dummy_application
+
+A new Flutter project.
